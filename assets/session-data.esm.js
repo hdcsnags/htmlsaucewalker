@@ -1,0 +1,1 @@
+/* deferred — do not inject session data until council review and security sign-off */
